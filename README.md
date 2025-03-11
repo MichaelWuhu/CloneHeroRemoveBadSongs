@@ -1,5 +1,5 @@
-# CloneHeroRemoveBadSongs
-A script to remove bad clone hero songs. 
+# Remove Bad Songs for Clone Hero
+*NOTE: this might leave a few bad songs if it cannot find the path or has restricted access
 
 ## How to Use
 1. install python here https://www.python.org/downloads/ (I have version 3.11.9)
